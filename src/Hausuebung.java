@@ -18,7 +18,7 @@ public class Hausuebung {
         } else if (alter >= 15) {
             System.out.printf("Mit " + alter + " Jahren ist die Lenkerberechtigungen für AM möglich");
         } else {
-            System.out.printf("Zu Jung zum Fahren");
+            System.out.println("Zu Jung zum Fahren");
         }
     }
 }
